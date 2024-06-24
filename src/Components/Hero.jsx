@@ -211,7 +211,7 @@ const Hero = () => {
           GET IN TOUCH
         </h2>
         <p className="w-5/6 lg:w-3/6 xl:w-3/6 md:text-xl text-center flex-wrap text-wrap px-2 mx-2 font-extralight">
-          Tell us a bit about yourself, and we will get in touch as soon as we can. You can also reach us directly at Festivida74@Gmail.com or by phone at 305-298-4618.
+          Tell us a bit about yourself, and we will get in touch as soon as we can. You can also reach us directly at avoidescapebd@gmail.com or by phone at 305-298-4618.
         </p>
         <div className="flex flex-wrap justify-center items-center" >
           <Contact />
@@ -223,9 +223,9 @@ const Hero = () => {
                     FOLLOW US ON INSTAGRAM
                 </h2>
 
-                <a href="https://www.instagram.com/festivida_event?igsh=dm5qdnBwdWc5cnRp">
+                <a href="">
                     <p className='text-2xl italic hover:underline hover:text-blue-600 font-extralight'>
-                        @Festivida
+                        @avoidescape
                     </p>
                 </a>
 

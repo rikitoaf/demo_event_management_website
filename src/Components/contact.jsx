@@ -28,7 +28,7 @@ function Contact() {
 
                 <div className="">
 
-                    <form ref={form} onSubmit={sendEmail} className="">
+                    <form   className="">
 
 
                         <div className="md:flex items-center">

@@ -11,7 +11,7 @@ import meeting from "../assets/meeting.jpg";
 import Contact from '../Components/contact';
 import { FaInstagram } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
-import fes from "../assets/festivida.png";
+import fes from "../assets/ae.png"
 import { useMediaQuery } from '../hooks/use-media-query';
 import { CgMail } from "react-icons/cg";
 
@@ -264,7 +264,7 @@ const Service = () => {
                     GET IN TOUCH
                 </h2>
                 <p className="w-5/6 lg:w-3/6 xl:w-3/6 md:text-xl text-center flex-wrap text-wrap px-2 mx-2 font-extralight">
-                    Tell us a bit about yourself, and we will get in touch as soon as we can. You can also reach us directly at Festivida74@Gmail.com or by phone at 305-298-4618.
+                    Tell us a bit about yourself, and we will get in touch as soon as we can. You can also reach us directly at avoidescapebd@gmail.com or by phone at 305-298-4618.
                 </p>
 
             </div>
@@ -306,7 +306,7 @@ const Service = () => {
                     <CgMail size={35} />
 
                     <h3 className='font-extralight text-xl'>
-                        Festivida74@Gmail.com
+                        avoidescape@gmail.com
                     </h3>
 
                 </div>

@@ -1,7 +1,7 @@
 // import { RiCloseFill, RiMenu3Fill } from "react-icons/ri";
 import { Link } from 'react-router-dom';
 import { useState } from "react";
-import fes from "../assets/festivida.png";
+import fes from "../assets/ae.png";
 import { NavLink, useLocation } from 'react-router-dom';
 import { PiInstagramLogoDuotone, PiWhatsappLogoDuotone, PiFacebookLogoDuotone   } from "react-icons/pi";
 import { FiFacebook } from "react-icons/fi";
