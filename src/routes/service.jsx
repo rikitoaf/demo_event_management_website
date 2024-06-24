@@ -35,7 +35,7 @@ const Service = () => {
                 </h1>
 
                 <p className='md:text-xl text-justify flex-wrap text-wrap px-2 mx-2'>
-                    welcome to Festivida, where every occasion becomes a cherished
+                    welcome to avoidescape, where every occasion becomes a cherished
                     memory. We specialize in creating bespoke events tailored to your
                     vision, offering a comprehensive range of services including
                     exquisite decoration, seamless documentation, stunning photo and
@@ -69,7 +69,7 @@ const Service = () => {
                             CORPORATE EVENTS
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -97,7 +97,7 @@ const Service = () => {
                             WEDDINGS
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -119,7 +119,7 @@ const Service = () => {
                             CONCERT
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -147,7 +147,7 @@ const Service = () => {
                             PHOTO & VIDEOGRAPHY
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -169,7 +169,7 @@ const Service = () => {
                             AWARD CEREMONY
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -197,7 +197,7 @@ const Service = () => {
                             TRADE FAIR
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -219,7 +219,7 @@ const Service = () => {
                             BIRTHDAY CELEBRATION
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -247,7 +247,7 @@ const Service = () => {
                             BUSINESS CONFERENCE
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -278,9 +278,9 @@ const Service = () => {
                     FOLLOW US ON INSTAGRAM
                 </h2>
 
-                <a href="https://www.instagram.com/festivida_event?igsh=dm5qdnBwdWc5cnRp">
+                <a href="https://www.instagram.com/avoidescape_event?igsh=dm5qdnBwdWc5cnRp">
                     <p className='text-3xl font-extrabold'>
-                        @Festivida
+                        @avoidescape
                     </p>
                 </a>
 
@@ -306,7 +306,7 @@ const Service = () => {
                     <CgMail size={35} />
 
                     <h3 className='font-extralight text-xl'>
-                        avoidescape@gmail.com
+                        avoidescapebd@gmail.com
                     </h3>
 
                 </div>
@@ -337,7 +337,7 @@ const Service = () => {
                 </h2>
 
                 <p className='md:text-xl text-justify flex-wrap text-wrap px-2 mx-2'>
-                    welcome to Festivida, where every occasion becomes a cherished
+                    welcome to avoidescape, where every occasion becomes a cherished
                     memory. We specialize in creating bespoke events tailored to your
                     vision, offering a comprehensive range of services including
                     exquisite decoration, seamless documentation, stunning photo and
@@ -371,7 +371,7 @@ const Service = () => {
                             CORPORATE EVENTS
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -398,7 +398,7 @@ const Service = () => {
                             WEDDINGS
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -425,7 +425,7 @@ const Service = () => {
                             CONCERT
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -454,7 +454,7 @@ const Service = () => {
                             VIDEOGRAPHY
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -482,7 +482,7 @@ const Service = () => {
                             AWARD CEREMONY
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -512,7 +512,7 @@ const Service = () => {
                             BIRTHDAY CELEBRATION
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -542,7 +542,7 @@ const Service = () => {
                             BUSINESS CONFERENCE
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -572,7 +572,7 @@ const Service = () => {
                             TRADE FAIR
                         </h2>
                         <p className='md:text-xl text-justify flex-wrap text-wrap'>
-                            elcome to Festivida, where every occasion becomes a cherished
+                            elcome to avoidescape, where every occasion becomes a cherished
                             memory. We specialize in creating bespoke events tailored to your
                             vision, offering a comprehensive range of services including
                             exquisite decoration, seamless documentation, stunning photo and
@@ -596,7 +596,7 @@ const Service = () => {
                     GET IN TOUCH
                 </h2>
                 <p className="w-5/6 lg:w-3/6 xl:w-3/6 md:text-xl text-center flex-wrap text-wrap px-2 mx-2 font-extralight">
-                    Tell us a bit about yourself, and we will get in touch as soon as we can. You can also reach us directly at Festivida74@Gmail.com or by phone at 305-298-4618.
+                    Tell us a bit about yourself, and we will get in touch as soon as we can. You can also reach us directly at avoidescape74@Gmail.com or by phone at 305-298-4618.
                 </p>
 
             </div>

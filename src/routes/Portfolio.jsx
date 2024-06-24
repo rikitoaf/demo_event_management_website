@@ -22,7 +22,7 @@ const Portfolio = () => {
                 </h2>
 
                 <p className='md:text-xl text-justify flex-wrap text-wrap px-2 mx-2'>
-                    welcome to Festivida, where every occasion becomes a cherished
+                    welcome to avoidescape, where every occasion becomes a cherished
                     memory. We specialize in creating bespoke events tailored to your
                     vision, offering a comprehensive range of services including
                     exquisite decoration, seamless documentation, stunning photo and
